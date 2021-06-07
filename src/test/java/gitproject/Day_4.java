@@ -17,10 +17,6 @@ public class Day_4 {
 		System.out.println("sum of three subject:" +total);
 		System.out.println("Calculate CGPA:" +CGPA);
 		System.out.println("total Percentage:" +per);
-		
-		
-		
-
-	}
+		}
 
 }
