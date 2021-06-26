@@ -1,7 +1,9 @@
 package gitproject;
 import java.util.Scanner;
-public class Day_10{
-		   public static void main(String[] args) {
+public class Day_10 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		      double num1;
 		      double num2;
 		      double ans;
@@ -27,4 +29,4 @@ public class Day_10{
 		      System.out.print("\nThe result is given as follows:\n");
 		      System.out.printf(num1 + " " + op + " " + num2 + " = " + ans);
 		   }
-		}
+}
